@@ -1,2 +1,2 @@
-# android-app-2-1
-This is a application for Android.. built with Java with the help of firebase
+# Chit chat
+This is a real time chatting application for Android. Built with Java with the help of firebase.
