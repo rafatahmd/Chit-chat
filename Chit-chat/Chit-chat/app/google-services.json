@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662355955175",
+    "project_id": "mindsharing-587fc",
+    "storage_bucket": "mindsharing-587fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662355955175:android:eb6635819409d5f73dc142",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662355955175-ui5qaf1v15965adrqp5ag3kb91e598lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzvM4nQepRhvtMwVJQ-dFtW5TJtQFL4rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662355955175-ui5qaf1v15965adrqp5ag3kb91e598lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
